@@ -1,0 +1,24 @@
+print("Qual o seu nome?:" )
+nome = input()
+print ("Prazer em te conhecer, "+ nome)
+print("legal e qual  a sua idade " +nome )
+idade = input()
+print('voce se define como do sexo masculino ou feminino' +nome)
+sexo = input()
+print('E seu estado Civil?:')
+estadoCivil = input()
+print('Qual a sua cidade '+nome)
+cidade = input()
+print('E o estado onde essa cidade fica?')
+estado = input()
+
+
+print("Confirmando os dados, voce se chama" +nome,+ str(idade) 'de idade") 
+
+
+#i#print('voce ira fazer ' +str(int(idade) +1) +'em um ano')
+
+
+
+#print("O tamanho do deu nome é: " + tamanho)
+#tamanho = str(len(nome))

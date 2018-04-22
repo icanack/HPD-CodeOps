@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+print('Qual o seu nome?')
+nome = input()
+print('Seja muito bem-vindo ao treinamento, %s' % nome)
+print('Qual a sua idade?')
+idade = input()
+print('Ja esta ficando velhor hein, ' + str(idade) + ' anos ja esta no final da vida!')
+print('Qual o seu sexo, %s?' % nome)
+sexo = input()
+print('Fiquei surpreso, nao me parece do sexo %s' % sexo) 
