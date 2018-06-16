@@ -1,0 +1,9 @@
+package "telnet" do
+ action: nothing
+end
+
+package "wget" do
+ action: install
+end
+
+package "vim"
